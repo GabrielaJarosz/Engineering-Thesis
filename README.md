@@ -9,3 +9,11 @@ The analyses were conducted for three cities - Delhi, Beijing and Helsinki. The 
 
 The code includes a dashboard visualization with an interactive map showing the analysis of air pollution for three selected cities, which was part of the engineering thesis. Dashboard can be displayed on a web page: https://s0af5h-gabriela-jarosz.shinyapps.io/inz_GabrielaJarosz/
 
+Analyzed cities:
+![image](https://user-images.githubusercontent.com/79970001/229882540-59275b4e-d070-480f-a21c-ccca1f22b512.png)
+
+Dashboard appearance:
+![image](https://user-images.githubusercontent.com/79970001/229882812-16c18710-0c6e-4faf-9029-699af1546301.png)
+![image](https://user-images.githubusercontent.com/79970001/229882880-f57cd1ef-84e4-4e18-ae8f-5a3f4170484a.png)
+
+
